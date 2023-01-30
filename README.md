@@ -1,1 +1,2 @@
-# 
+# Description :
+The aim of this experiment was to perform pick and place operation of a ball using LEGO EV3 Robot. This robot manipulator was accessed remotely and the three operations (pick, place and homing) were performed with the help of inverse kinematics and implementing it in MATLAB to control the motions sequentially. The robot workspace consisted of three stations oriented at 90 degree to each other in the X-Y plane. Complete details about the project can be found in the report. 
